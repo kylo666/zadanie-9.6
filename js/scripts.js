@@ -1,9 +1,9 @@
 var list = document.getElementById('list')
 
-add.addEventListener('click' , function('li') {
+add.addEventListener('click' , function('add') {
 });
 
-list.addEventListener('click' , function('li') {
+list.addEventListener('click' , function('list') {
 });
 element.innerHTML = 'li';
 
